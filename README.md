@@ -60,8 +60,8 @@ Yes. You can check docs here: https://wiki.polygon.technology/docs/pos/design/br
 
 | Contract                                                                                                                | Deployed address                             |
 | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| [FxRoot (Goerli)](https://goerli.etherscan.io/address/0x3d1d3E34f7fB6D26245E6640E1c50710eFFf15bA#code)                  | `0x3d1d3E34f7fB6D26245E6640E1c50710eFFf15bA` |
-| [FxChild (Mumbai)](https://explorer-mumbai.maticvigil.com/address/0xCf73231F28B7331BBe3124B907840A94851f9f11/contracts) | `0xCf73231F28B7331BBe3124B907840A94851f9f11` |
+| [FxRoot (Sepolia)](https://sepolia.etherscan.io/address/0x0E13EBEdDb8cf9f5987512d5E081FdC2F5b0991e/#code)                  | `0x0E13EBEdDb8cf9f5987512d5E081FdC2F5b0991e` |
+| [FxChild (Amoy)](https://amoy.polygonscan.com/address/0xE5930336866d0388f0f745A2d9207C7781047C0f) | `0xE5930336866d0388f0f745A2d9207C7781047C0f` |
 
 **Mainnet**
 
